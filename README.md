@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Ale07dv/Ale07dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Alejandro Ruiz Martínez 👋
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Soy estudiante de 2º de Desarrollo de Aplicaciones Web.
+- Me gusta la programación y la tecnología.
+- Me apasionan los videojuegos.
+- Actualmente estoy aprendiendo Java, PHP y JavaScript.
+
+## Tecnologías
+
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![PHP](https://img.shields.io/badge/PHP-purple)
+
+## Mi portfolio
+
+[Visitar mi página web](https://ale07dv.github.io)
+
+## Contacto
+
+Puedes encontrarme en GitHub:
+https://github.com/Ale07dv
